@@ -17,7 +17,8 @@ To run the program click WindowsFormApp1.exe to run the program.\
 
 # Simple Guide To How The Circuit Smulator Works
 When program starts it will start in this form:\
-<img width="1095" height="745" alt="image" src="https://github.com/user-attachments/assets/741eaf2d-e04c-446f-9c70-3c559d27f5b3" />
+<img width="1090" height="742" alt="image" src="https://github.com/user-attachments/assets/122cb80c-a794-435f-bc24-ebe9b460766d" />
+
 
 This is how it will look like when a component is required to be placed, to open and close the toolstrip menu with all the components the user only has to press on the category they wish to use, or close:\
 <img width="1185" height="120" alt="image" src="https://github.com/user-attachments/assets/c9a44ac8-4e10-442d-9742-12fe2a87819d" />
