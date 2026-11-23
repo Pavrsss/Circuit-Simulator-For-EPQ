@@ -21,22 +21,22 @@ When program starts it will start in this form:\
 
 
 This is how it will look like when a component is required to be placed, to open and close the toolstrip menu with all the components the user only has to press on the category they wish to use, or close:\
-<img width="1185" height="120" alt="image" src="https://github.com/user-attachments/assets/c9a44ac8-4e10-442d-9742-12fe2a87819d" />
+<img width="1078" height="125" alt="image" src="https://github.com/user-attachments/assets/c13cddaa-f4ab-449c-9f10-246d0f7a6782" />
+
 
 This is is the Item list for all the components and their category:\
 <img width="502" height="330" alt="image" src="https://github.com/user-attachments/assets/530c22a5-11ea-4566-a2d0-3f35fb457469" />
 
 This is how the program looks when it runs with a simple circuit design:\
-<img width="1092" height="747" alt="image" src="https://github.com/user-attachments/assets/194eee2f-c776-4662-9f15-ef385b91eb6a" />
+<img width="1092" height="743" alt="image" src="https://github.com/user-attachments/assets/ac64618d-c6fb-466f-bfc0-a304257d698f" />
+
 
 By clicking the simulate button, a prompt with all of the components statistics will appear:\
-<img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/c50eaae3-9e68-4dad-8148-b7c1e6d8be2f" />
+<img width="508" height="647" alt="image" src="https://github.com/user-attachments/assets/7e5aea5e-4310-4a1b-b085-9a9cb642a5e1" />
+
 
 By clicking Ok the next page will appear which will provide a simpler version of the statistics for the entire circuit:\
-<img width="242" height="212" alt="image" src="https://github.com/user-attachments/assets/1d9415bf-8b02-4fb0-945e-93be81ec3a64" />
-
-Then the original form will change to:\
-<img width="1093" height="747" alt="image" src="https://github.com/user-attachments/assets/102d2279-35ad-4bed-93ac-caa890831304" />
+<img width="242" height="210" alt="image" src="https://github.com/user-attachments/assets/d6b8d294-58f3-4c60-a9d0-6b06620b8521" />
 
 The user has the ability to change the range of values for the battery from 0 to 250V and the resistor from 0 to 500 Ohms. \
 The default for the battery is 10V and for the resistor is 100 Ohms.\
