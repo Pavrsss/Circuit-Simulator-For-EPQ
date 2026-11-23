@@ -11,12 +11,9 @@ Then press on Download Zip\
 
 After downloading a Zip file of all the code, you will need to extract all to a preferred area\
 Once it has been extracted locate the file and open it and this will appear\
-<img width="295" height="80" alt="image" src="https://github.com/user-attachments/assets/48719020-694f-4907-a96e-9286799ff606" />
+<img width="297" height="52" alt="image" src="https://github.com/user-attachments/assets/7b3428c5-87b9-4448-a27d-afabef1466cf" />
 
-Then open WindowsFormApp1 and this will appear\
-<img width="285" height="643" alt="image" src="https://github.com/user-attachments/assets/bcfe2aa8-f128-4fb3-bf1b-0c06816e034b" />
-
-To run the program click WindowsFormApp1.exe to run the program.
+To run the program click WindowsFormApp1.exe to run the program.\
 
 # Simple Guide To How The Circuit Smulator Works
 When program starts it will start in this form:\
