@@ -56,3 +56,4 @@ Naive Circuit Simulator - https://github.com/FarahaniMehrshad/NaiveCircuitSimula
 Microsoft Learn - http://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-windows-forms-picture-viewer-layout?view=visualstudio  
 FreeCodeCamp.org - https://www.youtube.com/watch?v=GhQdlIFylQ8  
 W3Schools - https://www.w3schools.com/cs/index.php  
+Digital - https://github.com/hneemann/Digital   
